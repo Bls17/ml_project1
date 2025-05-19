@@ -129,7 +129,7 @@ celerybeat.pid
 
 # Environments
 # Ne pas versionner le dossier artifacts
-artifacts/
+
 .env
 .venv
 env/
